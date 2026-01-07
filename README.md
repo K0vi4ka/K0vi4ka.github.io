@@ -8,7 +8,7 @@ A beginner frontend developer
 
 &check; Layout: HTML, CSS, SCSS
 
-&check; Дanguage: JavaScript, TypeScript
+&check; Language: JavaScript, TypeScript
 
 &check; Librarry/Framework: React, Vue
 
