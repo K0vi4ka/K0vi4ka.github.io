@@ -1,7 +1,7 @@
 
 # K0vi4ka
 
-A beginner frontend developer
+A beginner developer
 
 
 ## 🛠 Skills
@@ -10,7 +10,7 @@ A beginner frontend developer
 
 &check; Language: JavaScript, TypeScript
 
-&check; Librarry/Framework: React, Vue
+&check; Library/Framework: React, Vue
 
 &check; UI Library: Material UI, PrimeVue
 
@@ -36,6 +36,6 @@ Layouts:
 
 Phone: +375298275738
 
-Mail: zamiralovivan5@gmail.com
+Email: zamiralovivan5@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/%D0%B8%D0%B2%D0%B0%D0%BD-%D0%B7%D0%B0%D0%BC%D0%B8%D1%80%D0%B0%D0%BB%D0%BE%D0%B2-8808ab240/
